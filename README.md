@@ -9,3 +9,6 @@
 - Ingresar el comando en terminal php artisan key generate
 - Ingresar las credencialies de la cuenta de paypal generada en el archivo .env
 - Correr el proyecto con el comando php artisan serve
+
+-> Se uso el API Express checkout de Paypal con secret, usuario y contraseña
+-> Se trabajo con PHP 7.2 y composer 
