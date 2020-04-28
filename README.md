@@ -7,5 +7,5 @@
 - Crear archivo .env y copiar el contenido del archivo .env.example
 - Ingresar en terminal (ubicado en raiz del proyecto) el comando composer install
 - Ingresar el comando en terminal php artisan key generate
-- Generar credenciales API de Paypal e ingresarlas en el archivo .env
+- Ingresar las credencialies de la cuenta de paypal generada en el archivo .env
 - Correr el proyecto con el comando php artisan serve
